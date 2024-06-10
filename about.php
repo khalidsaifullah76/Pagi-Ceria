@@ -24,22 +24,22 @@ include_once 'header.php';
     </div>
     <!-- ##### Breadcrumb Area End ##### -->
 
-    <!-- ##### About Area Start ##### -->
-    <section class="about-us-area">
+<!-- ##### About Area Start ##### -->
+<section class="about-us-area section-padding-100-0">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-12 col-lg-5">
                     <!-- Section Heading -->
                     <div class="section-heading">
-                        <h2>ABOUT US</h2>
-                        <p>We are leading in the plants service fields.</p>
+                        <h2>TENTANG KAMI</h2>
+                        <p>Pagi Ceria Landscaping</p>
                     </div>
-                    <p>Quisque orci quam, vulputate non commodo finibus, molestie ac ante. Duis in sceleri quesem. Nulla sit amet varius nunc. Maecenas dui, tempeu ullam corper in.</p>
+                    <p>Kami adalah mitra anda dalam menciptakan nuansa alam baik ditempat tinggal atau lingkungan kantor, kami melayani pekerjaan skala kecil, menengah, dan besar. Kami memulai usaha sejak tahun 1998 dengan anama usaha Pagi Ceria Landscaping, dan pada tahun 2019 kami mengembangkan skala bisnis dengan mendirikan Perseroan Terbatas (PT) atas nama PT.Pagi Ceria Indonesia, yang telah terdaftar dalam Keputusan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia nomor AHU-0007077.AH.01.01.TAHUN 2019</p>
 
                     <!-- Progress Bar Content Area -->
                     <div class="alazea-progress-bar mb-50">
                         <!-- Single Progress Bar -->
-                        <div class="single_progress_bar">
+                        <!-- <div class="single_progress_bar">
                             <p>Office plants</p>
                             <div id="bar1" class="barfiller">
                                 <div class="tipWrap">
@@ -47,10 +47,10 @@ include_once 'header.php';
                                 </div>
                                 <span class="fill" data-percentage="80"></span>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Single Progress Bar -->
-                        <div class="single_progress_bar">
+                        <!-- <div class="single_progress_bar">
                             <p>Field manager</p>
                             <div id="bar2" class="barfiller">
                                 <div class="tipWrap">
@@ -58,10 +58,10 @@ include_once 'header.php';
                                 </div>
                                 <span class="fill" data-percentage="70"></span>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Single Progress Bar -->
-                        <div class="single_progress_bar">
+                        <!-- <div class="single_progress_bar">
                             <p>Landscape design</p>
                             <div id="bar3" class="barfiller">
                                 <div class="tipWrap">
@@ -69,10 +69,10 @@ include_once 'header.php';
                                 </div>
                                 <span class="fill" data-percentage="85"></span>
                             </div>
-                        </div>
+                        </div> -->
 
                         <!-- Single Progress Bar -->
-                        <div class="single_progress_bar">
+                        <!-- <div class="single_progress_bar">
                             <p>Garden Care</p>
                             <div id="bar4" class="barfiller">
                                 <div class="tipWrap">
@@ -80,7 +80,7 @@ include_once 'header.php';
                                 </div>
                                 <span class="fill" data-percentage="65"></span>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
@@ -91,8 +91,8 @@ include_once 'header.php';
                             <div class="col-12 col-sm-6">
                                 <div class="single-benefits-area">
                                     <img src="img/core-img/b1.png" alt="">
-                                    <h5>Quality Products</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <h5>Produk Berkualitas</h5>
+                                    <p>Produk tanaman hias terbaik yang dipilih dengan teliti untuk memastikan kualitas dan keindahan yang sempurna.</p>
                                 </div>
                             </div>
 
@@ -100,8 +100,8 @@ include_once 'header.php';
                             <div class="col-12 col-sm-6">
                                 <div class="single-benefits-area">
                                     <img src="img/core-img/b2.png" alt="">
-                                    <h5>Perfect Service</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <h5>Layanan Terbaik</h5>
+                                    <p>Mengutamakan kepuasan pelanggan dengan memberikan pelayanan yang cepat, responsif, dan penuh perhatian.</p>
                                 </div>
                             </div>
 
@@ -110,7 +110,7 @@ include_once 'header.php';
                                 <div class="single-benefits-area">
                                     <img src="img/core-img/b3.png" alt="">
                                     <h5>100% Natural</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <p>Produk bebas dari bahan kimia sintetis, memastikan keaslian dan kesehatan bagi lingkungan dan diri Anda.</p>
                                 </div>
                             </div>
 
@@ -137,78 +137,6 @@ include_once 'header.php';
         </div>
     </section>
     <!-- ##### About Area End ##### -->
-
-    <!-- ##### Service Area Start ##### -->
-    <section class="our-services-area bg-gray section-padding-100-0">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <!-- Section Heading -->
-                    <div class="section-heading text-center">
-                        <h2>OUR SERVICES</h2>
-                        <p>We provide the perfect service for you.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row align-items-center justify-content-between">
-                <div class="col-12 col-lg-5">
-                    <div class="alazea-service-area mb-100">
-
-                        <!-- Single Service Area -->
-                        <div class="single-service-area d-flex align-items-center">
-                            <!-- Icon -->
-                            <div class="service-icon mr-30">
-                                <img src="img/core-img/s1.png" alt="">
-                            </div>
-                            <!-- Content -->
-                            <div class="service-content">
-                                <h5>Plants Care</h5>
-                                <p>In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service-area d-flex align-items-center">
-                            <!-- Icon -->
-                            <div class="service-icon mr-30">
-                                <img src="img/core-img/s2.png" alt="">
-                            </div>
-                            <!-- Content -->
-                            <div class="service-content">
-                                <h5>Pressure Washing</h5>
-                                <p>In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Service Area -->
-                        <div class="single-service-area d-flex align-items-center">
-                            <!-- Icon -->
-                            <div class="service-icon mr-30">
-                                <img src="img/core-img/s3.png" alt="">
-                            </div>
-                            <!-- Content -->
-                            <div class="service-content">
-                                <h5>Tree Service &amp; Trimming</h5>
-                                <p>In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-6">
-                    <div class="alazea-video-area bg-overlay mb-100">
-                        <img src="img/bg-img/23.jpg" alt="">
-                        <a href="http://www.youtube.com/watch?v=7HKoqNJtMTQ" class="video-icon">
-                            <i class="fa fa-play" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ##### Service Area End ##### -->
 
     <!-- ##### Testimonial Area Start ##### -->
     <section class="testimonial-area section-padding-100">

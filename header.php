@@ -103,8 +103,8 @@
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About</a></li>
-                                    <li><a href="">Service</a></li>
-                                    <li><a href="">Product</a></li>
+                                    <li><a href="service.php">Service</a></li>
+                                    <li><a href="product.php">Product</a></li>
                                     
                                     
                                     <!-- <li><a href="shop.html">Produk Kami</a></li> -->
